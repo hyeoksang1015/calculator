@@ -18,3 +18,7 @@ def divide(x, y):
 
 def hello(name):
     print(f"Hello, {name} ~~!")
+
+
+def new_friend(name):
+    print(f"nice to meet you, {name} ~~!")
