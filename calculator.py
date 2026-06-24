@@ -38,3 +38,11 @@ class Cat(Animal):
 
     def grooming(self):
         print("churuep")
+
+
+class elephant(Animal):
+    def __init__(self, name, age):
+        super().__init__(name, age)
+
+    def trumpet(self):
+        print("trumpet trumpet trumpet~~!")
