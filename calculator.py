@@ -36,5 +36,5 @@ class Cat(Animal):
     def meow(self):
         print("meow meow meow~~!")
 
-   def grouming(self):
-       print("churuep")
+    def grooming(self):
+        print("churuep")
